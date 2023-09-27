@@ -7,3 +7,4 @@ Understanding Data Science overall concepts
     **Data** - Fact or information that can be measured. example - EmployeeID, Age, Gender and Salary.
 
 
+## adding new details
